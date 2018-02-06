@@ -9,7 +9,7 @@ module.exports = {
       host: 'localhost',
       port: 8545,
       network_id: 4,
-      from: '0x0d6eafe9ca0258b97839b07230a7ea8fa61b632a',
+      from: '0x5Cc5eB1c6341480d303e3b74Aac3eE2260342F5d',
     },
   },
 };
